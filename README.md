@@ -9,13 +9,7 @@
 - Engineered to handle common verification obstacles, ensuring a high rate of precise results.
 - Provides reliable and precise verification status for better data quality.
 
-
-## 🤝 Get in Touch
-
-We are open for business collaboration, custom development, and general inquiries related to this project.
-
-- Email     : elowenreply@gmail.com
-- Telegram  : @thepythoncode97
+![Gmail Email Validator](https://raw.githubusercontent.com/pythoncode26/gmail-email-checker/refs/heads/main/fo.png)
 
 
 ## Disclaimer:
