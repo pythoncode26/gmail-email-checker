@@ -4,7 +4,7 @@
 
 🌟 Core Features and Benefits
 
-- Optimized for fast validation of email lists.
+- Optimized email validation.
 - Operates effectively without the need for complex proxy configurations, simplifying deployment.
 - Engineered to handle common verification obstacles, ensuring a high rate of precise results.
 - Provides reliable and precise verification status for better data quality.
