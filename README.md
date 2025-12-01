@@ -1,2 +1,23 @@
-# gmail-email-checker
-Lightweight software to verify **Gmail** email with high-accuracy deliverability
+# Gmail 电子邮件验证器
+
+![Gmail Email Validator](https://raw.githubusercontent.com/pythoncode26/gmail-email-checker/refs/heads/main/gmail-email-checker.png)
+
+🌟 Core Features and Benefits
+
+- Optimized for fast, bulk validation of email lists.
+- Operates effectively without the need for complex proxy configurations, simplifying deployment.
+- Engineered to handle common verification obstacles, ensuring a high rate of precise results.
+- Provides reliable and precise verification status for better data quality.
+
+
+## 🤝 Get in Touch
+
+We are open for business collaboration, custom development, and general inquiries related to this project.
+
+- Contact: Telegram @thepythoncode97
+
+
+## Disclaimer:
+If you engage in any illegal activities using this tool, the author will not take any responsibility.
+
+Thank you!
